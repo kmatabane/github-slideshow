@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"When 2 hearts race, they both win!"
 Use the left arrow to go back!
